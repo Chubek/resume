@@ -1,6 +1,6 @@
 ### Mohammd "Chubak Bidpaa" Nazemi
 ---
-@icon-envelope-square **chubakbidpaa@gmail.com** or **chubak.bidpaa@octoshrew.com** <br> @icon-mobile +**989385130604** | ![](https://i.imgur.com/IRm5EXG.png) **Chubak#7400** <br>
+@icon-envelope **chubakbidpaa@gmail.com** or **chubak.bidpaa@octoshrew.com** <br> @icon-mobile +**989385130604** | ![](https://i.imgur.com/IRm5EXG.png) **Chubak#7400** <br>
 @icon-github **https://github.com/chubek** | @icon-square **https://chubek.github.com** <br>
 @icon-linkedin **https://www.linkedin.com/in/chubak-bidpaa-0a3798189/**
 
@@ -49,11 +49,9 @@ Personal Projects, sorted in order of importance:
 
 ##### @icon-thumbs-up Seek Recommendation
 
-> @icon-info: These are Discord IDs. My own Discord ID is on the resume header.
+*  OctoShrew: @icon-envelope **contact@octoshrew.com**
+*  Tanami Muller: @icon-envelope **weitzeug@gmail.com**
 
-*  Tanami Muller: ![](https://i.imgur.com/IRm5EXG.png) **MERZBAU#1024**
-*  Felix Quinque: ![](https://i.imgur.com/IRm5EXG.png) **Hollyqui#2201**
-*  Szymon Fonau:  ![](https://i.imgur.com/IRm5EXG.png) **Thorfinn#7552**
 
 ##### @icon-plus Additional Info
 * Willing to relocate: Yes
