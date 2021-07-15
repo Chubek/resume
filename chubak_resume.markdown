@@ -54,7 +54,6 @@ Personal Projects, sorted in order of importance:
 *  Tanami Muller: ![](https://i.imgur.com/IRm5EXG.png) **MERZBAU#1024**
 *  Felix Quinque: ![](https://i.imgur.com/IRm5EXG.png) **Hollyqui#2201**
 *  Szymon Fonau:  ![](https://i.imgur.com/IRm5EXG.png) **Thorfinn#7552**
-*  Carlo Pisani:  ![](https://i.imgur.com/IRm5EXG.png) **noobape#6219**
 
 ##### @icon-plus Additional Info
 * Willing to relocate: Yes
