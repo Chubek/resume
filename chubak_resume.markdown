@@ -44,6 +44,7 @@ Personal Projects, sorted in order of importance:
 |Bedlam Noise Apparatus|Adobe After Effects Plugin|Successfully used Adobe After Effects API, OpenGL and GLSL to create a plugin that creates six types of noise.|C++, GLSL|OpenGL<br> After Effects API|
 |Mongoose Jumblator|Encryption|Successfully made a Mongoose plugin which encrypts MongoDB entries and decrypts them back.<br>Did successful unit tests.|TypeScript|Lodash<br>Mongoose<br>Crypto-JS<br>Chai<br>Mocha|
 |The ML Codex|Education|Wrote a few chapters of a book using LaTeX about implementing custom Machine Learning algorithms.|LaTeX|Diction<br> English<br>Fluid Language<br>Helpfulnesss<br>LaTeX skills|
+|Syren Digital Signage|CRUD|Successfully created a digital signage backend with Kotlin.|Kotlin|Spring Framework|
 
 > @icon-info **Note**: Most of these projects, personal or commercial, if open-source, can be found in my Github. Find the link in the resume header.
 
